@@ -19,6 +19,11 @@ Si tenés dudas me podés contactar por redes o [mail](belenrey@gmail.com), tamb
 # Mis últimos posts en DEV.TO:
 
 <!-- BLOG-POST-LIST:START -->
+- [A agarrar la pala del contenido](https://dev.to/iamdoomling/a-agarrar-la-pala-del-contenido-5fj0)
+- [Mi aniversario manejando una comunidad](https://dev.to/iamdoomling/mi-aniversario-manejando-una-comunidad-1429)
+- [Esta no es una historia de amor](https://dev.to/iamdoomling/esta-no-es-una-historia-de-amor-4h7i)
+- [Behind the scenes: Our brand redesign](https://dev.to/iamdoomling/behind-the-scenes-our-brand-redesign-420b)
+- [Five things that are killing my productivity as a developer (and how to potentially fix them)](https://dev.to/iamdoomling/five-things-that-are-killing-my-productivity-as-a-developer-and-how-to-potentially-fix-them-1db)
 <!-- BLOG-POST-LIST:END -->
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamdoomling?style=for-the-badge)
