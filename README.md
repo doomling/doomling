@@ -1,29 +1,3 @@
-![doomling con un gatito](https://doomvault.nyc3.digitaloceanspaces.com/playite.png)
-
-## Hola, llegaste al readme de doom.js
-
-Mi nombre es Bel Rey pero me conocen por ahí como doomling o IDDQD.
-Soy desarrolladora fullstack y diseñadora UI. Me gusta emprender, solucionar problemas y contar historias. Actualmente formo parte de [CourseIt](https://www.courseit.com.ar/), la mejor opción para aprender desarrollo web en español.
-
-En mi escaso tiempo libre hago [#TeLoExplicoConGatitos](https://teloexplicocongatitos.com), una serie de cheatsheets con conceptos tecnológicos para que cada vez más personas se animen a meterse en el mundo de la tecnología.
-
-Mi stack actual:
-
-- React + Next.js :sparkles:
-- Node + Express :purple_heart:
-- Sass
-- Mongo
-
-Si tenés dudas me podés contactar por redes o [mail](belenrey@gmail.com), también podés dejar preguntas anónimas [acá](https://curiouscat.qa/iamdoomling)
-
-# Mis últimos posts en DEV.TO:
-
-<!-- BLOG-POST-LIST:START -->
-- [Life tap](https://dev.to/iamdoomling/life-tap-3137)
-- [¿Cómo empecé a programar? Mi (no tan) maravilloso viaje por el mundo de sistemas](https://dev.to/iamdoomling/como-empece-a-programar-mi-no-tan-maravilloso-viaje-por-el-mundo-de-sistemas-5glh)
-- [A agarrar la pala del contenido](https://dev.to/iamdoomling/a-agarrar-la-pala-del-contenido-5fj0)
-- [Mi aniversario manejando una comunidad](https://dev.to/iamdoomling/mi-aniversario-manejando-una-comunidad-1429)
-- [Esta no es una historia de amor](https://dev.to/iamdoomling/esta-no-es-una-historia-de-amor-4h7i)
-<!-- BLOG-POST-LIST:END -->
+I usually make the browser go beep bop, sometimes crash crash 🤖
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamdoomling?style=for-the-badge)
